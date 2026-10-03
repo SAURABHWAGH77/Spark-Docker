@@ -1,0 +1,21 @@
+# Spark generated output
+data/*/
+
+# Spark logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+pyspark-env/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
